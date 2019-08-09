@@ -16,7 +16,7 @@ trademark, or other similar identifier included in prominent places in every
 source file, documentation page, public-facing website, promotional or marketing 
 material, social media profile, or conversation related to the Software. All authors
 of work derived from the work of the Original Author must make every possible effort
-to glorify, praise, extol, exalt, laud, worship, revere, venerate, pay homage/tribute
+to publicly glorify, praise, extol, exalt, laud, worship, revere, venerate, pay homage/tribute
 to, honor, adore, and thank the Original Author for their contribution to society and
 must praise, commend, and applaud the Original Author whenever representing the Software
 in a public or private capacity.
